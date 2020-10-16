@@ -1,2 +1,2 @@
 # Coursera-assignments
-repo for module 2 assignment
+repo for html/css/js for web devs on coursera
